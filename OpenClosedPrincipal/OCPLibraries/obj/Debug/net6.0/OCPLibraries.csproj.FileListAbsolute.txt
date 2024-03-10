@@ -1,0 +1,12 @@
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\bin\Debug\net6.0\OCPLibraries.deps.json
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\bin\Debug\net6.0\OCPLibraries.dll
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\bin\Debug\net6.0\OCPLibraries.pdb
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\OCPLibraries.csproj.AssemblyReference.cache
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\OCPLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\OCPLibraries.AssemblyInfoInputs.cache
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\OCPLibraries.AssemblyInfo.cs
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\OCPLibraries.csproj.CoreCompileInputs.cache
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\OCPLibraries.dll
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\refint\OCPLibraries.dll
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\OCPLibraries.pdb
+D:\SOLID\OpenClosedPrincipal\OCPLibraries\obj\Debug\net6.0\ref\OCPLibraries.dll
